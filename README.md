@@ -16,14 +16,15 @@ Make a page with four full-width sections: one for each Hogwarts house. When pag
 
 * Use jQuery to capture the clicks on the nav.
 * Clicking a nav item should change the class on the body so that the page content changes, to the house that's been clicked.
-* It should also change the background color.
+* You'll need to use `removeClass()`. Note that by using empty parentheses, you can remove _all_ classes on the element in quesiton.
+* Switching houses should also change the background color.
 
 ## Each house section should have:
 
 * Some text. Feel free to use the [Harry Potter Wikia](http://harrypotter.wikia.com/wiki/Hogwarts_Houses).
 * 1 or more SVGs from [thenounproject.com](thenounproject.com).
 * 1-3 icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/). Just follow the insructions.
-* A video, using [responsive tools](http://css-tricks.com/rundown-of-handling-flexible-media/)
+* A video from YouTube, using [this responsive technique](http://css-tricks.com/rundown-of-handling-flexible-media/).
 
 ## Use media queries to
 
