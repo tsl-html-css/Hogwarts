@@ -11,7 +11,7 @@ Make a page with four full-width sections: one for each Hogwarts house. When pag
 
 * Make a spritemap of Hogwarts houses using Sass. (Originals included in repo.)
 * Use the spritemap for the four nav items, which should just be images, no text.
- 
+
 ## jQuery
 
 * Use jQuery to capture the clicks on the nav.
@@ -27,7 +27,7 @@ Make a page with four full-width sections: one for each Hogwarts house. When pag
 
 ## Use media queries to
 
-* Make the SVG get bigger/smaller when window gets bigger/smaller. 
+* Make the SVG get bigger/smaller when window gets bigger/smaller.
 * Marvel as you don't lose any resolution fidelity!
 
 ## Footer
