@@ -6,7 +6,7 @@ Start by **forking this repo**.
 
 ## General requirements
 
-* Start by wireframing/sketching.
+* First do a wireframe/sketch.
 * Bootstrap is optional.
 
 ## Nav
@@ -21,7 +21,7 @@ Start by **forking this repo**.
 * You'll need to use `removeClass()`. Note that by using empty parentheses, you can remove _all_ classes on the element in quesiton.
 * Switching houses should also change the background color.
 
-## Each house section should have:
+## Each house section should have
 
 * Some text. Feel free to use the [Harry Potter Wikia](http://harrypotter.wikia.com/wiki/Hogwarts_Houses).
 * 1 or more SVGs from [thenounproject.com](thenounproject.com).
