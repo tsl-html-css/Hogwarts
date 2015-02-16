@@ -1,8 +1,8 @@
 ## Create a page for your favorite Hogwarts house
 
-Everyone has a favorite house from Hogwarts, right? You get to make a website for your favorite one. Find content on Wikipedia or this [fancy Harry Potter Wikia](http://harrypotter.wikia.com/wiki/Hogwarts_Houses)
+Everyone has a favorite house from Hogwarts, right? You get to make a website for your favorite one. Find content on Wikipedia or this [fancy Harry Potter Wikia](http://harrypotter.wikia.com/wiki/Hogwarts_Houses).
 
-Requirements:
+### Requirements:
 
 * Start by wireframing/sketching
 * Three jpg photographs
