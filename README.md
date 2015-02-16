@@ -2,6 +2,8 @@
 
 Make a page with four full-width sections: one for each Hogwarts house. When page loads, only one section should be visible. (Make it your favorite house.) Clicking other house names in the nav should hide the visible house and show the clicked one.
 
+Start by **forking this repo**.
+
 ## General requirements
 
 * Start by wireframing/sketching.
