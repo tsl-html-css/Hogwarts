@@ -2,7 +2,7 @@
 
 Make a page with four full-width sections: one for each Hogwarts house. When page loads, only one section should be visible. (Make it your favorite house.) Clicking other house names in the nav should hide the visible house and show the clicked one.
 
-## Requirements
+## General requirements
 
 * Start by wireframing/sketching.
 * Bootstrap is optional.
@@ -29,3 +29,7 @@ Make a page with four full-width sections: one for each Hogwarts house. When pag
 
 * Make the SVG get bigger/smaller when window gets bigger/smaller. 
 * Marvel as you don't lose any resolution fidelity!
+
+## Footer
+
+* Include a footer giving credit to all the sites you stole content and assets from.
