@@ -6,7 +6,7 @@ Start by **forking this repo**.
 
 ## General requirements
 
-* First do a wireframe/sketch.
+* First do a wireframe/sketch. Take a picture and include the picture in your repo.
 * Bootstrap is optional.
 
 ## Nav
@@ -25,7 +25,7 @@ Start by **forking this repo**.
 
 * Some text. Feel free to use the [Harry Potter Wikia](http://harrypotter.wikia.com/wiki/Hogwarts_Houses).
 * 1 or more SVGs from [thenounproject.com](thenounproject.com).
-* 1-3 icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/). Just follow the insructions.
+* 1-3 icons from [Font Awesome](http://fortawesome.github.io/Font-Awesome/). Just follow the instructions.
 * A video from YouTube, using [this responsive technique](http://css-tricks.com/rundown-of-handling-flexible-media/).
 
 ## Use media queries to
